@@ -1,0 +1,6 @@
+{
+  "name": "AURORA Batel — Private Residences",
+  "description": "Landing page moderna para o lançamento exclusivo do AURORA Batel, empreendimento imobiliário de alto padrão no coração do Batel Soho em Curitiba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
