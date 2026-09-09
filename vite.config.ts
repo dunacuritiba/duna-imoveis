@@ -1,7 +1,11 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  plugins: [react()],
-  base: '/duna-imoveis/', // Tem que ter a barra antes e depois
+  plugins: [
+    react(),
+    tailwindcss()
+  ],
+  base: '/duna-imoveis/',
 })
