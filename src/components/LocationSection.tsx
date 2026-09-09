@@ -36,7 +36,7 @@ export const LocationSection: React.FC = () => {
             Localização Incomparável · Batel Soho
           </span>
           <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-light text-white leading-snug sm:leading-tight mb-3 sm:mb-4 text-balance">
-            Curitiba aos seus pés, com a elegância de viver a pé.
+            No coração de Curitiba, com a elegância e leveza de viver a pé.
           </h2>
           <p className="text-[#8E9CA8] text-xs sm:text-base font-light leading-relaxed text-pretty">
             Situado no trecho mais arborizado e silencioso do Batel Soho, a passos da icônica Praça da Espanha,
